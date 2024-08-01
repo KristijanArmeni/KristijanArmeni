@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**KristijanArmeni/KristijanArmeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.kristijanarmeni.net">
+    <img src="https://img.shields.io/badge/www-kristijanarmeni.net-green" alt="website badge"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/kristijanarmeni">
+    <img src="https://img.shields.io/badge/LinkedIn-kristijanarmeni-blue" alt="linkedin badge"/>
+  </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/pronouns-he,him-white" alt="pronouns badge"/>
+  </a>
+  
+</div>
 
-Here are some ideas to get you started:
+I'm [Kristijan](www.kristijanarmeni.net) [kree-stee-yan] a research scientist working at the intersection of cognitive neuroscience, language, and open science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,matlab,md,bash)](https://skillicons.dev)
